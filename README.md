@@ -14,4 +14,4 @@ So go ahead, create TUGI!
 
 If you are worried about anything, create a non-identifying GitHub account or email asktugi@gmail.com to post for you. TUGI doesn't judge.
 
-If you have a great idea and need help, post it [here](https://github.com/tugihub/website/issues).
+If you have a great idea and need help, post it [here](https://github.com/tugihub/tugihub.github.io/issues).
