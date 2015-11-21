@@ -1,4 +1,4 @@
-﻿[TUGI Home](https://tugi.io "TUGI Home Page")
+﻿[TUGI Home](http://tugi.info "TUGI Home Page")
 
 # What to Expect at a User Group
 
